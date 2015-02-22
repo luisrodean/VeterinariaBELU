@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bamoit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btnCategoria_btnGuardar"></string>
+    <string name="tvBienvenida">Bienvenido</string>
+    <string name="tvInstruccion">Elige una categoría</string>
+    <string name="tvAgregaCategoria">Agrega los siguientes datos: </string>
+    <string name="tvNomC">Nombre categoria</string>
+    <string name="tvImgC">Captura imagen</string>
+    <string name="txtNomC"></string>
+    <string name="btnCamara">Camara</string>
+    <string name="btnGaleria">Galeria</string>
+    <string name="Titulo">Notificacion</string>
+    <string name="btnBuscar">Buscar contacto</string>
+    
+    
+
+</resources>
